@@ -1,0 +1,22 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.header-section {
+  background-image: url("img/Headerbg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-section {
+  background: #e5e5e5;
+}
+.frontend {
+  background: #f7f7f9;
+}
+
+footer {
+  background-image: url("img/contact\ form\ background\ shapes.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
